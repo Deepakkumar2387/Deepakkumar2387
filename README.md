@@ -9,8 +9,7 @@ I am a passionate Full Stack Developer who loves building scalable web applicati
 Currently sharpening my skills in **DSA, MERN Stack**, and **System Design** to prepare for software engineering roles.
 
 - 🔭 Working on **DSA & Full Stack Projects**  
-- 🌱 Learning **React, Node.js, MongoDB**  
-- 📊 Interested in **AI Travel Planer**  
+- 🌱 Learning **React, Node.js, MongoDB**    
 - 💡 Strong in **Problem Solving & Logic Building**  
 - 🎯 Career Goal: Software Engineer at a top tech company  
 
@@ -39,9 +38,7 @@ Git | GitHub | VS Code
 
 - 💸 **SpendSense – AI Expense Tracker**  
   Smart finance tracking with AI insights  
-
-- 📊 **AI Stock Market Prediction**  
-  ML-based market trend analysis  
+  
 
 - 🧠 **DSA Practice Repository**  
   300+ problems on LeetCode & Striver Sheet  
