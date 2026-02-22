@@ -1,56 +1,56 @@
-# Hi 👋, I'm Deepak Kumar  
-
-🎓 Final Year B.Tech IT Student | 💻 Full Stack Developer | 🚀 Problem Solver  
-
----
-
-### 👨‍💻 About Me  
-I am a passionate Full Stack Developer who loves building scalable web applications and solving real-world problems through code.  
-Currently sharpening my skills in **DSA, MERN Stack**, and **System Design** to prepare for software engineering roles.
-
-- 🔭 Working on **DSA & Full Stack Projects**  
-- 🌱 Learning **React, Node.js, MongoDB**    
-- 💡 Strong in **Problem Solving & Logic Building**  
-- 🎯 Career Goal: Software Engineer at a top tech company  
+<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h3 align="center">Aspiring Software Developer | Full-Stack Enthusiast | DSA Learner</h3>
 
 ---
 
-### 🛠️ Tech Stack  
-
-**Languages:**  
-C | C++ | Java | JavaScript  
-
-**Frontend:**  
-HTML | CSS | React  
-
-**Backend:**  
-Node.js | Express  
-
-**Database:**  
-MongoDB | MySQL  
-
-**Tools:**  
-Git | GitHub | VS Code  
+## 🚀 About Me
+- 🎓 B.Tech Student passionate about Software Development  
+- 💻 Strong foundation in Data Structures & Algorithms  
+- 🌐 Building scalable Full-Stack Web Applications  
+- 📈 Focused on writing clean, optimized, and maintainable code  
+- 🎯 Preparing for SDE roles  
 
 ---
 
-### 🚀 Projects  
+## 🛠️ Tech Stack
 
-- 💸 **SpendSense – AI Expense Tracker**  
-  Smart finance tracking with AI insights  
-  
+### 👨‍💻 Programming Languages
+C++ • C • JavaScript • HTML • CSS  
 
-- 🧠 **DSA Practice Repository**  
-  300+ problems on LeetCode & Striver Sheet  
+### ⚙️ Frameworks & Technologies
+React.js • Node.js • Express.js • REST APIs  
+MongoDB • Mongoose • Tailwind CSS  
 
----
-
-### 📫 Let's Connect  
-
-- 🔗 LinkedIn: https://linkedin.com/in/deepak-kumar-1a05a0258  
-- 📧 Email: *deepakkr875088@gmail.com*  
+### 🧰 Developer Tools
+Git • GitHub • GitHub Copilot • VS Code • Postman  
 
 ---
 
-### ⚡ Fun Fact  
-I believe consistency beats talent 🚀  
+## 📚 Core Computer Science Knowledge
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Operating Systems  
+- Software Engineering  
+- Computer Networks  
+- Database Management Systems  
+- Compiler Design  
+
+---
+
+## 📈 Current Focus
+- 🚀 Strengthening DSA for coding interviews  
+- 🌍 Building production-ready full-stack applications  
+- 🧠 Exploring System Design fundamentals  
+
+---
+
+## 🤝 Connect With Me
+📫 Always open to collaboration and learning opportunities.
+<p>
+  <a href="https://www.linkedin.com/in/deepak-kumar-1a05a0258">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:deepakkr875088@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
